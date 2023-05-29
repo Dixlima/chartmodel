@@ -1,3 +1,7 @@
+![image](https://github.com/Dixlima/chartmodel/assets/93233102/3d21f8b9-5dda-4686-9429-6c8b5894679d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
